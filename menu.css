@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+}
+
+a{
+    text-decoration: wavy;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: o.4s ease-in-out;
+}
+.fa instagram{
+    color: blueviolet;
+}
+.fa twitter{
+    color: aqua;
+}
+.fa facebook{
+    color: blue;
+}
